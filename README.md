@@ -4,4 +4,4 @@
 2. gfdgf
 3. fdf
 
-[start] (docu-test:start.txt)
+[start] (docu-test/start.txt)
